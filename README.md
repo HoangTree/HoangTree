@@ -1,14 +1,7 @@
 # 🚀 Welcome to My Portfolio!
 
 Hey there! 👋  
-This is my **digital playground** — a place where I showcase projects, experiments, and the occasional "how did this even work?" moment.
-
----
-
-## 🎯 What’s Inside?
-- **Web Projects** 🌐 — From clean UI/UX designs to functional web apps.
-- **Code Experiments** 🧪 — Trying new tech stacks, frameworks, and ideas.
-- **Learning Logs** 📚 — Because growth is a feature, not a bug.
+I'm Tri, a Software Engineering student at RMIT.
 
 ---
 
@@ -51,9 +44,4 @@ Here are some of the tools & languages I wield like a wizard (or at least a wiza
 
 ---
 
-> _"Randome Quote."_ – Someone  
-
 Thanks for stopping by! ⭐ If you find something interesting, feel free to fork, star, or drop me a message!
-<div>
-  <img src="https://raw.githubusercontent.com/HoangTree/HoangTree/output/snake.svg" alt="Snake animation" />
-</div>
