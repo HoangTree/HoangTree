@@ -59,3 +59,6 @@ Here are some of the tools & languages I wield like a wizard (or at least a wiza
 > _"Randome Quote."_ – Someone  
 
 Thanks for stopping by! ⭐ If you find something interesting, feel free to fork, star, or drop me a message!
+<div>
+  <img src="https://raw.githubusercontent.com/HoangTree/HoangTree/output/snake.svg" alt="Snake animation" />
+</div>
