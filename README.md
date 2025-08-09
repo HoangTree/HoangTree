@@ -35,7 +35,9 @@ Here are some of the tools & languages I wield like a wizard (or at least a wiza
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
-https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=coffeescript&labelColor=ffb6c1
+<div>
+  <img src="https://img.shields.io/badge/JAVA-white?style=for-the-badge&logo=coffeescript&labelColor=ffb6c1">
+</div>
 
 
 ---
