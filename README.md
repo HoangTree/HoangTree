@@ -50,7 +50,7 @@ Here are some of the tools & languages I wield like a wizard (or at least a wiza
 ---
 
 ## 📫 Let’s Connect!
-- **GitHub:** [@your-username](https://github.com/HoangTree)
+- **GitHub:** [@HoangTree](https://github.com/HoangTree)
 - **LinkedIn:** [Hoang Tri](www.linkedin.com/in/tri-van-hoang-nguyen)
 - **Email:** hoangtri1411@outlook.com
 
